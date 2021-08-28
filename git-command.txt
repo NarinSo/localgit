@@ -1,0 +1,24 @@
+ install git hub
+1 download ang install Git
+2 Git bash interface
+3 Basic Git commands
+   get --version
+   get  help config
+   mkdir localgit
+   cd/localgit
+   git init
+   create file
+   git status  
+   git add git-command.txt
+4 Create a local repository
+5 Connect to remote repository
+6 Push the file to GitHub
+
+
+
+
+check git version
+ git --version
+
+set up global config variable
+ git config --global user.name "Narin.S"
